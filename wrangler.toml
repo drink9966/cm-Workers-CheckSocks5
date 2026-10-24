@@ -11,3 +11,4 @@ workers_dev = true
 # Optional: override the footer HTML exposed as env.BEIAN in the Worker
 # [vars]
 # BEIAN = "Example footer HTML"
+# Trigger Cloudflare Workers Git build
